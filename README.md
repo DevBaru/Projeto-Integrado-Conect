@@ -23,7 +23,7 @@ Requirements, design documents, source code, and tests will be added as the proj
 
 ### Privacy
 
-Use fictional data in examples and tests. Do not publish personal information, student registration numbers (RA), real customer data, passwords, API keys, or other confidential information.
+Fictional data in examples and tests.
 
 ---
 
@@ -50,4 +50,4 @@ Os requisitos, documentos do projeto, código-fonte e testes serão adicionados 
 
 ### Privacidade
 
-Use dados fictícios nos exemplos e testes. Não publique dados pessoais, RAs, informações reais de clientes, senhas, chaves de API ou outras informações confidenciais.
+Dados fictícios nos exemplos e testes.
