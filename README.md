@@ -30,6 +30,7 @@ A license has not been selected yet.
 PT-BR
 
 Projeto Integrado Conect
+
 Este é um projeto acadêmico de longo prazo para desenvolver um sistema de gestão das operações de uma provedora de internet. O trabalho vai evoluir ao longo do curso, desde os requisitos e a modelagem até uma aplicação funcional.
 
 Escopo previsto
