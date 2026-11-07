@@ -1,1 +1,2 @@
-<img width="3048" height="6106" alt="Blank diagram" src="https://github.com/user-attachments/assets/97b0dfe8-fef6-427d-ab99-e83f834178c5" />
+<img width="4695" height="10950" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/f2224d29-c6ce-4844-9ce6-88a90fed4b9f" />
+
